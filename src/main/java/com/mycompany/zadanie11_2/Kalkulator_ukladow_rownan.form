@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="Rownanie6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Rownanie1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Rownanie2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Rownanie3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Rownanie5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Rownanie4" alignment="1" max="32767" attributes="0"/>
+                          <Component id="Rownanie7" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="176" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="Oblicztxt" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="Podaj" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="Ntxt" min="-2" pref="31" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="OKK" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Component id="Informacja" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Cleartxt" min="-2" pref="236" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="Ws11" min="-2" pref="40" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="X1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Ws12" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="X2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Ws13" min="-2" pref="40" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="X3" min="-2" pref="20" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Ws14" min="-2" pref="34" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="X4" min="-2" pref="26" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Ws15" min="-2" pref="40" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                                      <Component id="X5" min="-2" pref="20" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Ws16" min="-2" pref="40" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="X6" min="-2" pref="25" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                                      <Component id="Ws17" min="-2" pref="40" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="X7" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="Eq1" min="-2" pref="35" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="Zatwierdzacz1" min="-2" pref="83" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Podaj" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Ntxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="OKK" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="Informacja" pref="24" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="Ws11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ws12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ws13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ws14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ws15" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ws16" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ws17" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="X7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Eq1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Zatwierdzacz1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Oblicztxt" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Rownanie1" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="Rownanie2" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Rownanie3" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Rownanie4" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Rownanie5" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Rownanie6" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Rownanie7" min="-2" pref="20" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Cleartxt" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="Ntxt">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NtxtActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Podaj">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Black" size="12" style="2"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Podaj liczbe rownan(7&lt;n&lt;2)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="OKK">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zatwierd&#x17a;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OKKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws11">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="X1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x1+"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws12">
+    </Component>
+    <Component class="javax.swing.JLabel" name="X2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x2+"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws14">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws13">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Informacja">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Black" size="12" style="2"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="X3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x3+"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="X4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x4+"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws15">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eq1">
+    </Component>
+    <Component class="javax.swing.JButton" name="Zatwierdzacz1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zatwierd&#x17a;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Zatwierdzacz1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Oblicztxt">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Oblicz"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OblicztxtActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Cleartxt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Wyczy&#x15b;&#x107;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CleartxtActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="X5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x5+"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws16">
+    </Component>
+    <Component class="javax.swing.JLabel" name="X6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x6+"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ws17">
+    </Component>
+    <Component class="javax.swing.JLabel" name="X7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x7="/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie5">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie6">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Rownanie7">
+    </Component>
+  </SubComponents>
+</Form>
